@@ -508,7 +508,7 @@ render_highquality(
     interactive = FALSE,              # Disable interactivity for the rendered image
     lightdirection = 55,          # Set the direction of the primary light source (in degrees)
     lightaltitude = c(30, 80),        # Set the altitude of both lights (in degrees)
-    lightcolor = c("white",'white'),    # Set the color of both lights (custom color and white)
+    lightcolor = c("white",'white'),    # Set the color of both lights (custom color)
     lightintensity = c(600, 100),     # Set the intensity of both lights
     width = 3500,                     # Set the width of the rendered image
     height = 3500,                    # Set the height of the rendered image
