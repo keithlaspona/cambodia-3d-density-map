@@ -17,6 +17,3 @@ The goal of this project is to create a visual representation of the population 
 The final population density map for Cambodia is shown below. The map visualizes the population distribution across various regions of Cambodia, with key cities marked for easy reference.
 
 ![Cambodia Population Density Map](./Cambodia.png)
-
-**Visualization by**: Babac, Gier, Laspoña, Mugot  
-**Data**: Kontur Population 2023
